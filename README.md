@@ -22,6 +22,6 @@ This project helped me strengthen my understanding of CRUD operations, DOM manip
 ✔ Implemented full CRUD functionality using JavaScript
 ✔ Worked with DOM manipulation methods
 ✔ Used Local Storage to store and retrieve data
-✔ Improved problem-solving and debugging skills
+
 
 🎯 This project is part of my continuous learning journey in Web Development.
